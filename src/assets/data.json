@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "messages": [
+        { "content": "Lorem ipsum", "type": "sent", "time": "12:21" },
+        { "content": "Dolor sit", "type": "sent", "time": "12:22" },
+        { "content": "finibus quam", "type": "received", "time": "12:23" },
+        {
+          "content": "Curabitur vulputate magna a sapien auctor ullamcorper. Integer porta purus at eros fermentum, sit amet accumsan tortor sollicitudin. In id lacus pellentesque",
+          "type": "sent",
+          "time": "12:24"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": false
+    },
+    {
+      "id": 2,
+      "name": "Maddie Serapion",
+      "messages": [
+        {
+          "content": "Vestibulum vestibulum eros ac mauris facilisis dictum.",
+          "type": "received",
+          "time": "12:19"
+        },
+        {
+          "content": "Sed interdum nisi vitae orci tempust",
+          "type": "sent",
+          "time": "12:19"
+        },
+        {
+          "content": "Integer cursus felis euismod mi scelerisque rhoncus. Vivamus eu blandit sem.",
+          "type": "received",
+          "time": "12:20"
+        },
+        {
+          "content": "Vestibulum vestibulum eros ac mauris facilisis dictum.",
+          "type": "received",
+          "time": "12:21"
+        },
+        {
+          "content": "Sed interdum nisi vitae orci tempust",
+          "type": "sent",
+          "time": "12:22"
+        },
+        {
+          "content": "Integer cursus felis euismod mi scelerisque rhoncus. Vivamus eu blandit sem.",
+          "type": "received",
+          "time": "12:23"
+        },
+        {
+          "content": " quis ullamcorper enim mattis a",
+          "type": "received",
+          "time": "12:24"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/7646458/pexels-photo-7646458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": true
+    },
+    {
+      "id": 3,
+      "name": "Alisher Donatas",
+      "messages": [
+        {
+          "content": "rhoncus. Vivamus eu blandit sem. Phasellus dictum tellus vel tellus blandit, vel vulputate nibh laoreet.",
+          "type": "received",
+          "time": "12:21"
+        },
+        {
+          "content": "Aenean nulla augue",
+          "type": "sent",
+          "time": "12:22"
+        },
+        {
+          "content": "Pellentesque dignissim nisl at",
+          "type": "sent",
+          "time": "12:23"
+        },
+        {
+          "content": "sed eleifend libero velit vel ",
+          "type": "received",
+          "time": "12:24"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/1220757/pexels-photo-1220757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": false
+    },
+    {
+      "id": 4,
+      "name": "Dominic Oliver",
+      "messages": [
+        {
+          "content": "Fusce libero dolor",
+          "type": "sent",
+          "time": "12:21"
+        },
+        {
+          "content": "vehicula vitae orci ut",
+          "type": "received",
+          "time": "12:22"
+        },
+        {
+          "content": "fermentum luctus dolor.",
+          "type": "received",
+          "time": "12:23"
+        },
+        {
+          "content": "Phasellus porta, nisl quis tincidunt",
+          "type": "sent",
+          "time": "12:25"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": false
+    },
+    {
+      "id": 5,
+      "name": "Terry Cohen",
+      "messages": [
+        {
+          "content": "Donec finibus massa et orci laoreet",
+          "type": "sent",
+          "time": "12:21"
+        },
+        {
+          "content": "ellentesque non elit eu magna scelerisque semper. Nunc quis venenatis ipsum. Etiam non ante urna. Nulla laoreet lorem non elementum eleifend.",
+          "type": "sent",
+          "time": "12:22"
+        },
+        {
+          "content": "Donec scelerisque lacinia risus, laoreet condimentum mauris laoreet eget. Nunc lacinia molestie nulla et varius. Maecenas ex velit, vehicula auctor lorem quis, ",
+          "type": "sent",
+          "time": "12:23"
+        },
+        {
+          "content": "ncus. Vivamus eu",
+          "type": "sent",
+          "time": "12:25"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/2690323/pexels-photo-2690323.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": true
+    },
+    {
+      "id": 6,
+      "name": "Marlene Klein",
+      "messages": [
+        {
+          "content": "dignissim nisl at velit convallis",
+          "type": "received",
+          "time": "12:21"
+        },
+        {
+          "content": "s ex velit, vehicula auctor lore",
+          "type": "received",
+          "time": "12:22"
+        },
+        {
+          "content": "vitae orci tempus, et suscip",
+          "type": "sent",
+          "time": "12:23"
+        },
+        {
+          "content": "d mi scelerisque rhoncus. Vi",
+          "type": "sent",
+          "time": "12:25"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/1030870/pexels-photo-1030870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": false
+    },
+    {
+      "id": 7,
+      "name": "Mike Chandler",
+      "messages": [
+        {
+          "content": "lorem quis, euismod gravida",
+          "type": "received",
+          "time": "12:21"
+        },
+        {
+          "content": "dignissim nisl at velit convallis, et p",
+          "type": "sent",
+          "time": "12:22"
+        },
+        {
+          "content": "Interdum et malesuada fames ac ante ipsum primis in faucibus. In porttitor lacus vitae lectus laoreet, eget placerat risus volutpat. Nunc tempor euismod diam ve",
+          "type": "sent",
+          "time": "12:23"
+        },
+        {
+          "content": "ue. Phasellus porta, nisl quis tincidunt",
+          "type": "received",
+          "time": "12:25"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/1457611/pexels-photo-1457611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": false
+    },
+    {
+      "id": 8,
+      "name": "Dewey Evans",
+      "messages": [
+        {
+          "content": "molestie, bibendum",
+          "type": "sent",
+          "time": "12:21"
+        },
+        {
+          "content": "rci laoreet feugiat. Pellentesque non elit eu magna scelerisque semper. Nunc quis venenatis ipsum. Etiam non a",
+          "type": "sent",
+          "time": "12:22"
+        },
+        {
+          "content": "Maecenas ex velit, vehicula auctor lorem quis",
+          "type": "received",
+          "time": "12:23"
+        },
+        {
+          "content": "e, tincidunt ut ligula in, feugiat suscipit enim. U",
+          "type": "sent",
+          "time": "12:24"
+        }
+      ],
+      "image": "https://images.pexels.com/photos/194917/pexels-photo-194917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "newMessage": false
+    }
+  ]
+}
